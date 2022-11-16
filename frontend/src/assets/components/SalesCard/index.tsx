@@ -8,10 +8,10 @@ function SalesCard() {
             <h2 className="dsmeta-sales-title">Vendas</h2>
             <div>
                 <div className="dsmeta-form-control-container">
-                    <input className="dsmeta-form-control" type="text"/>
+                    <input className="dsmeta-form-control" type="text" />
                 </div>
                 <div className="dsmeta-form-control-container">
-                    <input className="dsmeta-form-control" type="text"/>
+                    <input className="dsmeta-form-control" type="text" />
                 </div>
             </div>
 
@@ -38,7 +38,7 @@ function SalesCard() {
                             <td>R$ 55300.00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
-                                    <NotificationButton/>
+                                    <NotificationButton />
                                 </div>
                             </td>
                         </tr>
@@ -51,7 +51,7 @@ function SalesCard() {
                             <td>R$ 55300.00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
-                                <NotificationButton/>
+                                    <NotificationButton />
                                 </div>
                             </td>
                         </tr>
@@ -64,7 +64,7 @@ function SalesCard() {
                             <td>R$ 55300.00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
-                                <NotificationButton/>
+                                    <NotificationButton />
                                 </div>
                             </td>
                         </tr>
